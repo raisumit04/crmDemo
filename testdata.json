@@ -1,0 +1,23 @@
+{
+    "login": {
+        "username": "sumit.rai@testriq.com",
+        "password": "Sumitrai@12"
+    },
+    "organization": {
+        "name": "software",
+        "website": "software.com",
+        "size": "201-500",
+        "territory": "test_territory01",
+        "annualRevenue": "200000",
+        "industry": "Technology"
+    },
+    "contact": {
+        "salutation": "Mr",
+        "firstName": "pranav",
+        "lastName": "patil",
+        "gender": "Male",
+        "contactName": "Shreyash PakhareShreyash"
+    },
+    "qualification": "Negotiation",
+    "owner": "S Sumit Rai"
+}
